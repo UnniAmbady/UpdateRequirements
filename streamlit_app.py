@@ -3,7 +3,7 @@ from openai import OpenAI
 
 # Show title and description.
 st.title("📄 Add New BCA Regulatory Requirements.")
-st.write( "Authorised BCA officer can upload new Requlation here– GPT will update its answer! " )
+st.write( "Authorised BCA officer can upload new Requlation here– GPT will update its answer!! " )
 
 # Ask user for their OpenAI API key via `st.text_input`.
 # Alternatively, you can store the API key in `./.streamlit/secrets.toml` and access it
